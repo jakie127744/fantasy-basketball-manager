@@ -1,0 +1,9 @@
+{
+  "name": "fantasy-bball-api",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "python -m flask --app api run --port 5000",
+    "start": "python -m flask --app api run"
+  },
+  "dependencies": {}
+}
